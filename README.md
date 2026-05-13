@@ -871,7 +871,7 @@ func testExpiredLicenseFailsValidation() {
 
 ---
 
-# Why This Design Is Strong For Microsoft PlayReady Interviews
+# Why This Design Is Strong For DRM SDK Interviews
 
 This architecture demonstrates:
 
@@ -888,7 +888,7 @@ This architecture demonstrates:
 
 ---
 
-# Final Interview Summary Statement
+# Final Summary Statement
 
 "The goal of a DRM SDK is not only secure decryption, but reliable, scalable, observable, and policy-compliant playback across heterogeneous platforms and network conditions while minimizing latency and maintaining strong content protection guarantees."
 
